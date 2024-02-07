@@ -12,6 +12,8 @@
 
 *Samuel Clemens & Dorothea Lagne's "Migrant Mother*
 
+![Lorem Ipsum Image from Picsum]({{site.baseurl}}/assets/images/image.jpeg)
+
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
 3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
