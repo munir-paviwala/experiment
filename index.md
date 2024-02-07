@@ -12,7 +12,7 @@
 
 *Samuel Clemens & Dorothea Lagne's "Migrant Mother*
 
-![Lorem Ipsum Image from Picsum]({{site.baseurl}}/assets/images/image.jpeg)
+![Lorem Ipsum Image from Picsum]({{site.baseurl}}/assets/images/image.jpg)
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
